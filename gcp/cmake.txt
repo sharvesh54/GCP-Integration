@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(gcp)
+find_package(google_cloud_cpp_storage REQUIRED)
+add_executable(gcp gcp1.cpp)
+target_link_libraries(gcp PUBLIC google-cloud-cpp::storage)
