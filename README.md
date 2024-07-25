@@ -1,4 +1,4 @@
-# Project: Efficient Data Collection and Uploading to GCP Bucket
+# Efficient Data Collection and Uploading to GCP Bucket
 
 ## Overview
 
